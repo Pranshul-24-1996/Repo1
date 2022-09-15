@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-15T10:17:45 IST" name="Default suite" finished-at="2022-09-15T10:19:18 IST" duration-ms="92574">
+    <groups>
+    </groups>
+    <test started-at="2022-09-15T10:17:45 IST" name="Default test" finished-at="2022-09-15T10:19:18 IST" duration-ms="92574">
+      <class name="com.timekeeping.actiTime.selenium.TaskTest.CreateCustomerInTaskTest1">
+        <test-method signature="createCustomerTest()[pri:0, instance:com.timekeeping.actiTime.selenium.TaskTest.CreateCustomerInTaskTest1@5403f35f]" started-at="2022-09-15T10:17:46 IST" name="createCustomerTest" finished-at="2022-09-15T10:19:18 IST" duration-ms="92524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomerTest -->
+      </class> <!-- com.timekeeping.actiTime.selenium.TaskTest.CreateCustomerInTaskTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
